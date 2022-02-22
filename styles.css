@@ -1,0 +1,76 @@
+/* Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+@font-face {
+    font-family: "Sometimes";
+    src: url("/font/Sometime.ttf") format("opentype");
+}
+header {
+    display: inline-block;
+    border-bottom: 1px solid;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(250, 248, 248, 0.966);
+    box-shadow: 10px 1px 5px rgb(0, 0, 0);
+    margin-bottom: 50px;
+}
+h1 {
+    text-align: center;
+    font-size: clamp(50px,6vw,100px);
+    color: black;
+    font-family: Sometimes;
+}
+img.pp {
+    border-radius: 60%;
+    width: clamp(100px,10vw,1000px);
+    border: 0.1px solid;
+}
+
+div.h {
+    width: 100%;
+}
+main {
+    width: 50%;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-gap: 15px;
+}
+main > div{
+    background-color: grey;
+    aspect-ratio: 1;
+
+}
+img.article {
+    width: 200px;
+}
+
+img.send {
+    width: 0px;
+    position: relative;
+    float: right;
+    margin-right: 50px;
+    opacity: 0;
+
+}
+
+div.vignette img{
+    width: 100%;
+}
+
+
+p.username {
+    font-size: clamp(15px, 2vw, 50px);
+}
+
+p.javascript {
+    font-size: clamp(10px, 2vw, 20px);
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
