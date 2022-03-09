@@ -35,18 +35,47 @@ function createArticle(number) {
         document.querySelector('main').insertAdjacentHTML('beforeend', article)
     }
 }
+
+
+
+
+function texte(i) {
+    let content = `
+        <p>${captureData[i].desc}
+    `
+    return content
+}
 createArticle(9)
 //exemple 
-const button = document.getElementById("vignette0")
+const img0 = document.getElementById("vignette0")
+const img1 = document.getElementById("vignette1")
+
 const modal = document.getElementById("modal").style
-const exit = document.getElementById("close")
-button.addEventListener('click', () => {
+const lecontent = document.getElementById("lecontent")
+const desc = document.getElementById("desc")
+
+
+
+img0.addEventListener('click', () => {
     modal.zIndex=0
     modal.opacity=1
+
+    lecontent.innerHTML = texte(0)
 });
+img1.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(1)
+});
+
+
+
+var exit = document.getElementById("close")
 exit.addEventListener('click', () => {
+    console.log("test")
     modal.zIndex=-1
     modal.opacity=0
 });
+
 
 

@@ -91,9 +91,19 @@ div.modal {
     z-index: -1;
 }
 
-div.lecontent {
+div#lecontent {
     background-color: #fff;
     font-size: 50px;
+}
+div#close {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    background-color: #fff;
+    font-size: 50px;
+}
+div#close img {
+    width: 100px;
 }
 
 
