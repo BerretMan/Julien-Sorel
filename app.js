@@ -41,6 +41,7 @@ function createArticle(number) {
 
 function texte(i) {
     let content = `
+        <img src="${captureData[i].photo}" class="bigimage"/>
         <p>${captureData[i].desc}
     `
     return content
