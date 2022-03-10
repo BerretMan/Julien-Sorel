@@ -21,7 +21,7 @@ let captureData = await grabData();
 
 
 
-
+console.log("yo")
 console.log(captureData[0].content)
 
 function createArticle(number) {
