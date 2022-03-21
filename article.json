@@ -1,19 +1,37 @@
 [
     {
-        "title":"mon premier blog",
+        "title":"le livre",
         "photo":"img/book.png",
-        "desc":"Salut c'est Julien Sorel. Mon père m'ère m'a fère m'a fère m'a fère m'a fa frappé (ça fait mal)Mon père m'a frappé (ça fait mal)Mon père m'a frappé (ça fait mal)Mon père m'a frappé (ça fait mal)",
+        "desc":"Aujourd’hui mon père m’a encore battu, je le hais et cela juste parce que j’étais en train de lire mon livre favori Le mémorial de St Hélène, un ouvrage sur le grand Napoléon, cet homme si important. Il préfère que je regarde bêtement une machine toute la journée, mais cela est si ennuyant que je préfère passer ce temps à lire. Il ne me comprend pas et pense que la lecture est une perte de temps, pour lui c’est une activité inutile juste parce que lui même ne sait pas lire. Le pire, c’est qu’il m’a frappé et a fait tomber mon livre dans le ruisseau, j’ai beaucoup pleuré et après ça il m’a encore battu.",
         "comment":"oiuiuiutyuityito"
     },
     {
-        "title":"mon premier blog",
+        "title":"vendu",
+        "photo":"img/pdp.png",
+        "desc":"Mon père m’a vendu, je vais devenir le précepteur des enfants de Mme de Rênal et lui va récupérer dans l’argent en me faisant travailler. Et puis tant mieux, je le hais au moins je n’aurais pas à le voir au moins, en plus ils sont riches je devrais avoir accès à de nombreux livres et enfin personne ne m'empêchera d’exercer ma passion. Plus je suis loin de cet homme, mieux je me porte.",
+        "content":"lorem ipsum"
+    },
+    {
+        "title":"eglise",
         "photo":"img/glise.jfif",
-        "desc":"Mon premier article youpi",
+        "desc":"Avant d’arriver chez M. de Rênal je me suis arrêté dans une église et là j’ai vu un message qui annonçait une exécution, pauvre homme. Je me demande bien ce qu’il a pu faire pour en arriver là. En plus, drole de coincidence il s’appelle Louis Jenrel l’anagramme de mon nom, Julien Sorel. Heureusement je ne suis pas dans cette situation moi.",
+        "content":"lorem ipsum"
+    },
+    {
+        "title":"arbre",
+        "photo":"img/arbre.png",
+        "desc":"Aujourd’hui j’ai touché la main de Mme de Rênal sans faire exprès, mais elle a retiré sa main directement. J’ai été outré, comment peut elle me résister ? Je vais tout faire pour la séduire à partir de maintenant. Cette femme ne me resistera pas, je la séduirai et elle me laissera toucher sa main.",
         "content":"lorem ipsum"
     },
     {
         "title":"mon premier blog",
-        "photo":"img/renal_house.png",
+        "photo":"img/pdp.png",
+        "desc":"Aujourd’hui j’ai touché la main de Mme de Rênal sans faire exprès, mais elle a retiré sa main directement. J’ai été outré, comment peut elle me résister ? Je vais tout faire pour la séduire à partir de maintenant. Cette femme ne me resistera pas, je la séduirai et elle me laissera toucher sa main.",
+        "content":"lorem ipsum"
+    },
+    {
+        "title":"mon premier blog",
+        "photo":"img/pdp.png",
         "desc":"Mon premier article",
         "content":"lorem ipsum"
     },
@@ -21,24 +39,6 @@
         "title":"LeDuel",
         "photo":"img/duel.png",
         "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
-        "content":"lorem ipsum"
-    },
-    {
-        "title":"mon premier blog",
-        "photo":"img/pdp.png",
-        "desc":"Mon premier article",
-        "content":"lorem ipsum"
-    },
-    {
-        "title":"mon premier blog",
-        "photo":"img/pdp.png",
-        "desc":"Mon premier article",
-        "content":"lorem ipsum"
-    },
-    {
-        "title":"mon premier blog",
-        "photo":"img/pdp.png",
-        "desc":"Mon premier article",
         "content":"lorem ipsum"
     },
     {
