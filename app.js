@@ -50,6 +50,8 @@ createArticle(9)
 //exemple 
 const img0 = document.getElementById("vignette0")
 const img1 = document.getElementById("vignette1")
+const img2 = document.getElementById("vignette2")
+const img3 = document.getElementById("vignette3")
 
 const modal = document.getElementById("modal").style
 const lecontent = document.getElementById("lecontent")
@@ -67,6 +69,16 @@ img1.addEventListener('click', () => {
     modal.zIndex=0
     modal.opacity=1
     lecontent.innerHTML = texte(1)
+});
+img2.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(2)
+});
+img3.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(3)
 });
 
 
