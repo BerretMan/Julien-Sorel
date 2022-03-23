@@ -2,13 +2,13 @@
     {
         "title":"le livre",
         "photo":"img/book.png",
-        "desc":"Aujourd’hui mon père m’a encore battu, je le hais et cela juste parce que j’étais en train de lire mon livre favori Le mémorial de St Hélène, un ouvrage sur le grand Napoléon, cet homme si important. Il préfère que je regarde bêtement une machine toute la journée, mais cela est si ennuyant que je préfère passer ce temps à lire. Il ne me comprend pas et pense que la lecture est une perte de temps, pour lui c’est une activité inutile juste parce que lui même ne sait pas lire. Le pire, c’est qu’il m’a frappé et a fait tomber mon livre dans le ruisseau, j’ai beaucoup pleuré et après ça il m’a encore battu.",
+        "desc":"Aujourd’hui mon père m’a encore battu, je le hais et cela juste parce que j’étais en train de lire mon livre favori Le mémorial de St Hélène, un ouvrage sur le grand Napoléon, cet homme si important. Il préfère que je regarde bêtement une machine toute la journée, mais cela est si ennuyant que je préfère passer ce temps à lire. Il ne me comprend pas et pense que la lecture est une perte de temps, pour lui c’est une activité inutile juste parce que lui même ne sait pas lire. Le pire, c’est qu’il m’a frappé et a fait tomber mon livre dans le ruisseau, j’ai beaucoup pleuré et après ça il m’a encore battu. Si seulement je pouvais m'enfuir, vivre des aventures épiques comme tous ces héros de romans, plûtot que surveiller cette stupide scie aux mouvements monotones",
         "comment":"oiuiuiutyuityito"
     },
     {
         "title":"vendu",
         "photo":"img/pdp.png",
-        "desc":"Mon père m’a vendu, je vais devenir le précepteur des enfants de Mme de Rênal et lui va récupérer dans l’argent en me faisant travailler. Et puis tant mieux, je le hais au moins je n’aurais pas à le voir au moins, en plus ils sont riches je devrais avoir accès à de nombreux livres et enfin personne ne m'empêchera d’exercer ma passion. Plus je suis loin de cet homme, mieux je me porte.",
+        "desc":"Mon père m’a vendu, je vais devenir le précepteur des enfants de Mme de Rênal et lui va récupérer dans l’argent en me faisant travailler. Enfin! Et puis tant mieux, je le hais au moins je n’aurais pas à le voir , en plus ils sont nobles. Je devrais donc avoir accès à de nombreux livres et enfin personne ne m'empêchera d’exercer ma passion. Plus je suis loin de cet homme, mieux je me porte.",
         "content":"lorem ipsum"
     },
     {
@@ -20,19 +20,25 @@
     {
         "title":"arbre",
         "photo":"img/arbre.png",
-        "desc":"Aujourd’hui j’ai touché la main de Mme de Rênal sans faire exprès, mais elle a retiré sa main directement. J’ai été outré, comment peut elle me résister ? Je vais tout faire pour la séduire à partir de maintenant. Cette femme ne me resistera pas, je la séduirai et elle me laissera toucher sa main.",
+        "desc":"Cela fait désormais quelque mois que je suis chez la famille Renal. Je m'accomode de plus en plus à cette nouvelle vie. Aujourd’hui j’ai même réussis à toucher la main de Mme de Rênal,mais elle a retiré sa main directement. J’ai été outré, comment peut elle me résister ? Je vais tout faire pour la séduire à partir de maintenant. Cette femme ne me resistera pas, je la séduirais.",
         "content":"lorem ipsum"
     },
     {
-        "title":"mon premier blog",
+        "title":"Madame de renal / premier contact",
         "photo":"img/pdp.png",
-        "desc":"Aujourd’hui j’ai touché la main de Mme de Rênal sans faire exprès, mais elle a retiré sa main directement. J’ai été outré, comment peut elle me résister ? Je vais tout faire pour la séduire à partir de maintenant. Cette femme ne me resistera pas, je la séduirai et elle me laissera toucher sa main.",
+        "desc":"",
         "content":"lorem ipsum"
     },
     {
-        "title":"mon premier blog",
-        "photo":"img/pdp.png",
-        "desc":"Mon premier article",
+        "title":"dernier contact ",
+        "photo":"img/bedroomnight.png",
+        "desc":"Je vais devoir quitter le séminaire de Besançon, en effet je devais désormais aller travailler chez le marquis de la Mole à Paris. J’ai donc décidé d’aller faire un dernier adieu à Madame de Rênal, car je ne risque pas de la revoir de sitôt.Dans une nuit calme, après être passé discrètement par la fenêtre du manoir Renal, j’ai retrouvé Madame de Rênal. Elle était tellement heureuse quand elle m’a revu.Je suis resté caché dans sa chambre presque 24 heures, avant de m'enfuir, sous le coup de feu des domestiques.  ",
+        "content":"lorem ipsum"
+    },
+    {
+        "title":"Horse",
+        "photo":"img/horse.png",
+        "desc":"Aujourd’hui, Norbert de la Noble, le fils de Monsieur de la Mole, a décidé de m’inviter à une balade à cheval. J’ai accepté l’offre, je me dis que cela me permettra de mieux m’intégrer dans cette famille si noble. En effet, j’ai du mal à comprendre toutes les mœurs de ces messieurs que je croise au salon du marquis de la Mole.  Ce sont probablement les gens les plus nobles et les plus ennuyeux que j’ai pu croiser. Bref. La balade se déroule sans accroc, jusqu’à ce que je tombe de cheval.",
         "content":"lorem ipsum"
     },
     {
@@ -42,15 +48,27 @@
         "content":"lorem ipsum"
     },
     {
-        "title":"mon premier blog",
-        "photo":"img/pdp.png",
-        "desc":"Mon premier article",
+        "title":"Comtesse Olga Chouvalova née princesse Belosselsky-Belozersky par Winterhalter, 1858",
+        "photo":"img/Mathilde.png",
+        "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
         "content":"lorem ipsum"
     },
     {
-        "title":"mon premier blog",
-        "photo":"img/pdp.png",
-        "desc":"Mon premier article",
+        "title":"Comtesse Olga Chouvalova née princesse Belosselsky-Belozersky par Winterhalter, 1858",
+        "photo":"img/Mathilde.png",
+        "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
+        "content":"lorem ipsum"
+    },
+    {
+        "title":"Comtesse Olga Chouvalova née princesse Belosselsky-Belozersky par Winterhalter, 1858",
+        "photo":"img/Mathilde.png",
+        "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
+        "content":"lorem ipsum"
+    },
+    {
+        "title":"Comtesse Olga Chouvalova née princesse Belosselsky-Belozersky par Winterhalter, 1858",
+        "photo":"img/Mathilde.png",
+        "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
         "content":"lorem ipsum"
     }
 ]

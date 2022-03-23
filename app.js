@@ -46,13 +46,16 @@ function texte(i) {
     `
     return content
 }
-createArticle(9)
+createArticle(12)
 //exemple 
 const img0 = document.getElementById("vignette0")
 const img1 = document.getElementById("vignette1")
 const img2 = document.getElementById("vignette2")
 const img3 = document.getElementById("vignette3")
-
+const img5 = document.getElementById("vignette5")
+const img6 = document.getElementById("vignette6")
+const img7 = document.getElementById("vignette7")
+const img8 = document.getElementById("vignette8")
 const modal = document.getElementById("modal").style
 const lecontent = document.getElementById("lecontent")
 const desc = document.getElementById("desc")
@@ -79,6 +82,26 @@ img3.addEventListener('click', () => {
     modal.zIndex=0
     modal.opacity=1
     lecontent.innerHTML = texte(3)
+});
+img5.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(5)
+});
+img6.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(6)
+});
+img7.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(7)
+});
+img8.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(8)
 });
 
 
