@@ -52,10 +52,14 @@ const img0 = document.getElementById("vignette0")
 const img1 = document.getElementById("vignette1")
 const img2 = document.getElementById("vignette2")
 const img3 = document.getElementById("vignette3")
+const img4 = document.getElementById("vignette4")
 const img5 = document.getElementById("vignette5")
 const img6 = document.getElementById("vignette6")
 const img7 = document.getElementById("vignette7")
 const img8 = document.getElementById("vignette8")
+const img9 = document.getElementById("vignette9")
+const img10 = document.getElementById("vignette10")
+const img11 = document.getElementById("vignette11")
 const modal = document.getElementById("modal").style
 const lecontent = document.getElementById("lecontent")
 const desc = document.getElementById("desc")
@@ -83,6 +87,11 @@ img3.addEventListener('click', () => {
     modal.opacity=1
     lecontent.innerHTML = texte(3)
 });
+img4.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(4)
+});
 img5.addEventListener('click', () => {
     modal.zIndex=0
     modal.opacity=1
@@ -102,6 +111,21 @@ img8.addEventListener('click', () => {
     modal.zIndex=0
     modal.opacity=1
     lecontent.innerHTML = texte(8)
+});
+img9.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(9)
+});
+img10.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(10)
+});
+img11.addEventListener('click', () => {
+    modal.zIndex=0
+    modal.opacity=1
+    lecontent.innerHTML = texte(11)
 });
 
 

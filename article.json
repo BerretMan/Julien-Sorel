@@ -2,73 +2,73 @@
     {
         "title":"le livre",
         "photo":"img/book.png",
-        "desc":"Aujourd’hui mon père m’a encore battu, je le hais et cela juste parce que j’étais en train de lire mon livre favori Le mémorial de St Hélène, un ouvrage sur le grand Napoléon, cet homme si important. Il préfère que je regarde bêtement une machine toute la journée, mais cela est si ennuyant que je préfère passer ce temps à lire. Il ne me comprend pas et pense que la lecture est une perte de temps, pour lui c’est une activité inutile juste parce que lui même ne sait pas lire. Le pire, c’est qu’il m’a frappé et a fait tomber mon livre dans le ruisseau, j’ai beaucoup pleuré et après ça il m’a encore battu. Si seulement je pouvais m'enfuir, vivre des aventures épiques comme tous ces héros de romans, plûtot que surveiller cette stupide scie aux mouvements monotones",
+        "desc":"Aujourd’hui mon père m’a encore battu, je le hais et cela juste parce que j’étais en train de lire mon livre favori Le mémorial de St Hélène, un ouvrage sur le grand Napoléon, cet homme si important. Il préfère que je regarde bêtement une machine toute la journée, mais cela est si ennuyant que je préfère passer ce temps à lire. Il ne me comprend pas et pense que la lecture est une perte de temps, pour lui c’est une activité inutile juste parce que lui même ne sait pas lire. Le pire, c’est qu’il m’a frappé et a fait tomber mon livre dans le ruisseau, j’ai beaucoup pleuré et après ça il m’a encore battu. Si seulement je pouvais m'enfuir, vivre des aventures épiques comme tous ces héros de romans, plutôt que surveiller cette stupide scie aux mouvements monotones.",
         "comment":"oiuiuiutyuityito"
     },
     {
         "title":"vendu",
-        "photo":"img/pdp.png",
-        "desc":"Mon père m’a vendu, je vais devenir le précepteur des enfants de Mme de Rênal et lui va récupérer dans l’argent en me faisant travailler. Enfin! Et puis tant mieux, je le hais au moins je n’aurais pas à le voir , en plus ils sont nobles. Je devrais donc avoir accès à de nombreux livres et enfin personne ne m'empêchera d’exercer ma passion. Plus je suis loin de cet homme, mieux je me porte.",
+        "photo":"img/precepteur.png",
+        "desc":"Mon père m’a vendu, je vais devenir le précepteur des enfants de Mme de Rênal et lui va récupérer dans l’argent en me faisant travailler. Enfin! De toute façon, je le hais. Au moins je n’aurais pas à le voir. En plus, ils sont nobles, je devrais donc avoir accès à de nombreux livres et enfin plus personne ne m'empêchera d’exercer ma passion. Plus je suis loin de cet homme, mieux je me porte.",
         "content":"lorem ipsum"
     },
     {
         "title":"eglise",
         "photo":"img/glise.jfif",
-        "desc":"Avant d’arriver chez M. de Rênal je me suis arrêté dans une église et là j’ai vu un message qui annonçait une exécution, pauvre homme. Je me demande bien ce qu’il a pu faire pour en arriver là. En plus, drole de coincidence il s’appelle Louis Jenrel l’anagramme de mon nom, Julien Sorel. Heureusement je ne suis pas dans cette situation moi.",
+        "desc":"Avant d’arriver chez M. de Rênal, je me suis arrêté dans une église et là j’ai vu un message qui annonçait une exécution. Pauvre homme! Je me demande bien ce qu’il a pu faire pour en arriver là. En plus, drole de coincidence, il s’appelle Louis Jenrel l’anagramme de mon nom, Julien Sorel. Heureusement, je ne suis pas dans cette situation.",
         "content":"lorem ipsum"
     },
     {
         "title":"arbre",
         "photo":"img/arbre.png",
-        "desc":"Cela fait désormais quelque mois que je suis chez la famille Renal. Je m'accomode de plus en plus à cette nouvelle vie. Aujourd’hui j’ai même réussis à toucher la main de Mme de Rênal,mais elle a retiré sa main directement. J’ai été outré, comment peut elle me résister ? Je vais tout faire pour la séduire à partir de maintenant. Cette femme ne me resistera pas, je la séduirais.",
+        "desc":"Cela fait désormais quelque mois que je suis chez la famille Renal. Je m'accommode de plus en plus à cette nouvelle vie. Aujourd’hui j’ai même réussi à toucher la main de Mme de Rênal, mais elle a retiré sa main directement. J’ai été outré, comment peut elle me résister ? Je vais tout faire pour la séduire à partir de maintenant. Cette femme ne me resistera pas, je la séduirai.",
         "content":"lorem ipsum"
     },
     {
-        "title":"Madame de renal / premier contact",
-        "photo":"img/pdp.png",
-        "desc":"",
+        "title":"Seminaire",
+        "photo":"img/seminaire.png",
+        "desc":"Je viens d’arriver au séminaire de Besançon. Déjà avant de venir, j'avais peur et je ne pouvais pas y aller. Là- bas, je suis à l’écart ils me haïssent tous, je n’ai aucun ami, aucun ne me comprend, c'est l’horreur, je veux partir. Ils sont jaloux de moi juste parce que je ne leur ressemble pas. Heureusement l’abbé Pirard, lui, me comprend et m’accepte comme je suis. Cela fait des mois que je n’ai pas revu Mme de Rênal, elle me manque tellement. Heureusement, un jour, lorsque j’étais de garde dans une église, j’ai aperçu ma bien-aimée, le choc était terrible.Je ne pensais pas la revoir un jour, je pensais que tout était perdu, que j’étais devenu le martyr de Verrière.",
         "content":"lorem ipsum"
     },
     {
         "title":"dernier contact ",
         "photo":"img/bedroomnight.png",
-        "desc":"Je vais devoir quitter le séminaire de Besançon, en effet je devais désormais aller travailler chez le marquis de la Mole à Paris. J’ai donc décidé d’aller faire un dernier adieu à Madame de Rênal, car je ne risque pas de la revoir de sitôt.Dans une nuit calme, après être passé discrètement par la fenêtre du manoir Renal, j’ai retrouvé Madame de Rênal. Elle était tellement heureuse quand elle m’a revu.Je suis resté caché dans sa chambre presque 24 heures, avant de m'enfuir, sous le coup de feu des domestiques.  ",
+        "desc":"Je vais devoir quitter le séminaire de Besançon. En effet, je devrai désormais aller travailler chez le marquis de la Mole à Paris. J’ai donc décidé d’aller faire un dernier adieu à Madame de Rênal, car je ne risque pas de la revoir de sitôt. Dans une nuit calme, après être passé discrètement par la fenêtre du manoir Renal, j’ai retrouvé Madame de Rênal. Elle était tellement heureuse quand elle m’a revu.Je suis resté caché dans sa chambre presque 24 heures, avant de m'enfuir, sous le coup de feu des domestiques.",
         "content":"lorem ipsum"
     },
     {
         "title":"Horse",
         "photo":"img/horse.png",
-        "desc":"Aujourd’hui, Norbert de la Noble, le fils de Monsieur de la Mole, a décidé de m’inviter à une balade à cheval. J’ai accepté l’offre, je me dis que cela me permettra de mieux m’intégrer dans cette famille si noble. En effet, j’ai du mal à comprendre toutes les mœurs de ces messieurs que je croise au salon du marquis de la Mole.  Ce sont probablement les gens les plus nobles et les plus ennuyeux que j’ai pu croiser. Bref. La balade se déroule sans accroc, jusqu’à ce que je tombe de cheval.",
+        "desc":"Aujourd’hui, Norbert de la Mole, le fils de Monsieur de la Mole, a décidé de m’inviter à une balade à cheval. J’ai accepté l’offre, je me dis que cela me permettra de mieux m’intégrer dans cette famille si noble. En effet, j’ai du mal à comprendre toutes les mœurs de ces messieurs que je croise au salon du marquis de la Mole.  Ce sont probablement les gens les plus nobles et les plus ennuyeux que j’ai pu croiser. Bref. La balade se déroule sans accroc, jusqu’à ce que je tombe de cheval.",
         "content":"lorem ipsum"
     },
     {
         "title":"LeDuel",
         "photo":"img/duel.png",
-        "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
+        "desc":"Après une provocation dans un café par un noble, j'ai décidé de faire un duel avec Monseigneur de Beauvoisie, le fameux noble. Il était très courtois. A la différence des autres nobles du salon de Monsieur de la Mole, ce noble et son ami n’était point ennuyeux. Après quelques minutes de préparation, le duel commença. J'ai perdu le duel en quelque seconde, d'un coup dans un bras.",
         "content":"lorem ipsum"
     },
     {
         "title":"Comtesse Olga Chouvalova née princesse Belosselsky-Belozersky par Winterhalter, 1858",
         "photo":"img/Mathilde.png",
-        "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
+        "desc":"Depuis mon arrivée ici, une jeune-fille m’intrigue, il s’agit de Mathilde de la Mole. Un jour, je l’ai même surpris en train de parler de moi à Norbert. On a donc commencé à s’échanger des lettres, puis au bout de la troisième, elle me propose d'aller dans sa chambre en prenant l’échelle…tout ceci me rappelle ma relation avec Madame de Renal. Cependant, je me méfie: et si tout ceci n’était qu’un piège? Je prends donc mes précautions, puis décide d’y aller. Finalement, il ne s’agissait pas d’un guet-apens, ouf.",
         "content":"lorem ipsum"
     },
     {
         "title":"Comtesse Olga Chouvalova née princesse Belosselsky-Belozersky par Winterhalter, 1858",
-        "photo":"img/Mathilde.png",
-        "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
+        "photo":"img/head.png",
+        "desc":"Salut, c’est moi, Mathilde de la Mole. Malgré tous mes efforts, je n’ai pas pu sauver ta vie, mon Julien Sorel. Lors de l'exécution, j’ai senti en moi un profond vide. Lorsque la guillotine s’est abattus sur mon Danton, j’ai décidé de te faire un dernier baiser, un baiser d’adieux.",
         "content":"lorem ipsum"
     },
     {
         "title":"Comtesse Olga Chouvalova née princesse Belosselsky-Belozersky par Winterhalter, 1858",
-        "photo":"img/Mathilde.png",
-        "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
+        "photo":"img/FILS.png",
+        "desc":"Cela fait maintenant 1 ans que mon beau Julien est mort. J’aimerais te donner quelque nouvelles: ton fils est enfin né. Il s’appelle Albert de la Mole. Après la mort de Madame de  Rênal, je suis retourné vivre chez mon père. Après pléthore de négociations, il a enfin accepté ce qui était impensable pour lui,  ce qui était péché, ce qui semblait impossible: élever ton fils comme un de ses véritables fils. De plus, Norbert, ton cher ami, s’est marié avec une noble.",
         "content":"lorem ipsum"
     },
     {
         "title":"Comtesse Olga Chouvalova née princesse Belosselsky-Belozersky par Winterhalter, 1858",
-        "photo":"img/Mathilde.png",
-        "desc":"Après une provocation dans un cafée par , j'ai décidé de faire un duel avec Monseigneur de Beauvoisie. J'ai perdus le duel en quelque seconde, d'un coup dans un bras.",
+        "photo":"img/tombe.png",
+        "desc":"Moi, Julien Sorel, le précepteur des enfers<br>qui a eu une des vies des plus singulières,<br>J’étais destiné à une vie de misère<br>A surveiller la maudite scie de Verrière.<br><br>Mais, à la manière du grand Napoléon<br>J’ai remporté bravement de grandes batailles:<br>Mathilde et de Rênal furent ma trouvaille<br>Et tel l’insulaire, je finis en prison.<br><br>J'ai perdu la raison ainsi que toute peine.<br>Aveuglé, l'amour véritable pathogène<br>Le goût de la haute noblesse m'a ruiné.<br><br>Quand de chez madame de Rênal je partis<br>Chez de la Mole le marquis, là je naquis<br>Avant de disparaître pour l'éternité.",
         "content":"lorem ipsum"
     }
 ]
